@@ -1,7 +1,7 @@
 const Page = () => {
   return (
     <main>
-      PDF Generate API's
+      PDF Generate APIs
     </main>
   )
 }
